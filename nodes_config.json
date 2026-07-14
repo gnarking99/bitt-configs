@@ -1,0 +1,12 @@
+{
+    "custom_nodes": [
+        {
+            "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git",
+            "name": "ComfyUI-VideoHelperSuite"
+        },
+        {
+            "url": "https://github.com/Lightricks/ComfyUI-LTXVideo.git",
+            "name": "ComfyUI-LTXVideo"
+        }
+    ]
+}
