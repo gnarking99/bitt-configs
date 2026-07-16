@@ -55,6 +55,38 @@
         {
             "url": "https://github.com/audioscavenger/ComfyUI-Thumbnails",
             "name": "ComfyUI-Thumbnails"
+        },
+        {
+            "url": "https://github.com/yolain/ComfyUI-Easy-Use",
+            "name": "ComfyUI-Easy-Use"
+        },
+        {
+            "url": "https://github.com/BetaDoggo/comfyui-image-resize-plus",
+            "name": "comfyui-image-resize-plus"
+        },
+        {
+            "url": "https://github.com/vrgamegirl19/comfyui-vrgamedevgirl",
+            "name": "comfyui-vrgamedevgirl"
+        },
+        {
+            "url": "https://github.com/wallish77/wlsh_nodes",
+            "name": "wlsh_nodes"
+        },
+        {
+            "url": "https://github.com/brucew4yn3rp/ComfyUI_SelectiveMetadata",
+            "name": "ComfyUI_SelectiveMetadata"
+        },
+        {
+            "url": "https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris",
+            "name": "ComfyUI-Zlycoris"
+        },
+        {
+            "url": "https://github.com/YaserJaradeh/comfyui-yaser-nodes",
+            "name": "comfyui-yaser-nodes"
+        },
+        {
+            "url": "https://github.com/ClownsharkBatwing/RES4LYF",
+            "name": "RES4LYF"
         }
     ]
 }
