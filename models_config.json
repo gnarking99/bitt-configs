@@ -1,1 +1,8 @@
-{}
+{
+    "diffusion_models": [
+        {
+            "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors",
+            "filename": "Krea-2-Turbo.safetensors"
+        }
+    ]
+}
