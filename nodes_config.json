@@ -19,6 +19,10 @@
         {
             "url": "https://github.com/rgthree/rgthree-comfy",
             "name": "rgthree's_ComfyUI_Nodes"
+        },
+        {
+            "url": "https://github.com/WingeD123/ComfyUI_QwenVL_PromptCaption",
+            "name": "ComfyUI_QwenVL_PromptCaption"
         }
     ]
 }
