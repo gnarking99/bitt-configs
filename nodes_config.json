@@ -23,6 +23,38 @@
         {
             "url": "https://github.com/WingeD123/ComfyUI_QwenVL_PromptCaption",
             "name": "ComfyUI_QwenVL_PromptCaption"
+        },
+        {
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "ComfyUI"
+        },
+        {
+            "url": "https://github.com/NewLouwa/ComfyUI-Model_preset_Pilot",
+            "name": "ComfyUI-Model_preset_Pilot"
+        },
+        {
+            "url": "https://github.com/mobcat40/ComfyUI-PromptChain",
+            "name": "ComfyUI-PromptChain"
+        },
+        {
+            "url": "https://github.com/Fannovel16/comfyui_controlnet_aux",
+            "name": "comfyui_controlnet_aux"
+        },
+        {
+            "url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts",
+            "name": "ComfyUI-Custom-Scripts"
+        },
+        {
+            "url": "https://github.com/RUiNtheExtinct/comfyui-save-file-extended",
+            "name": "comfyui-save-file-extended"
+        },
+        {
+            "url": "https://github.com/Chaoses-Ib/ComfyUI_Ib_CustomNodes",
+            "name": "ComfyUI_Ib_CustomNodes"
+        },
+        {
+            "url": "https://github.com/audioscavenger/ComfyUI-Thumbnails",
+            "name": "ComfyUI-Thumbnails"
         }
     ]
 }
