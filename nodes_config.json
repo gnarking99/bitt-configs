@@ -1,8 +1,20 @@
 {
     "custom_nodes": [
         {
-            "url": "https://github.com/rgthree/rgthree-comfy",
-            "name": "rgthree's_ComfyUI_Nodes"
+            "url": "https://github.com/melMass/comfy_mtb",
+            "name": "MTB_Nodes"
+        },
+        {
+            "url": "https://github.com/WingeD123/ComfyUI_QwenVL_PromptCaption",
+            "name": "ComfyUI_QwenVL_PromptCaption"
+        },
+        {
+            "url": "https://github.com/kijai/ComfyUI-KJNodes",
+            "name": "KJNodes_for_ComfyUI"
+        },
+        {
+            "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler",
+            "name": "ComfyUI-SeedVR2_VideoUpscaler"
         }
     ]
 }
