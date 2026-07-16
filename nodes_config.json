@@ -15,6 +15,10 @@
         {
             "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler",
             "name": "ComfyUI-SeedVR2_VideoUpscaler"
+        },
+        {
+            "url": "https://github.com/rgthree/rgthree-comfy",
+            "name": "rgthree's_ComfyUI_Nodes"
         }
     ]
 }
