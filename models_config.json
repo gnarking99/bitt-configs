@@ -34,5 +34,11 @@
             "url": "https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/resolve/main/wan2.2_t2v_low_noise_14B_Q8_0.gguf",
             "filename": "wan2.2_t2v_low_noise_14B_Q8_0.gguf"
         }
+    ],
+    "loras": [
+        {
+            "url": "https://huggingface.co/Patil/Krea-2-depth-controlnet/resolve/main/depth-control-lora.safetensors",
+            "filename": "depth-control-lora.safetensors"
+        }
     ]
 }
