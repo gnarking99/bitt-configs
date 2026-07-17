@@ -91,6 +91,10 @@
         {
             "url": "https://github.com/city96/ComfyUI-GGUF",
             "name": "ComfyUI-GGUF"
+        },
+        {
+            "url": "https://github.com/facok/comfyui-krea2-controlnet",
+            "name": "comfyui-krea2-controlnet"
         }
     ]
 }

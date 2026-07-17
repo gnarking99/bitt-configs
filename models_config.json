@@ -7,20 +7,32 @@
     ],
     "vae": [
         {
-            "url": "https://huggingface.co/Remudl/qwen-image-vae/resolve/main/qwen-image-vae.safetensors",
+            "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
             "filename": "qwen_image_vae.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Osrivers/wan_2.1_vae.safetensors/resolve/main/wan_2.1_vae.safetensors",
+            "filename": "wan_2.1_vae.safetensors"
         }
     ],
     "clip": [
         {
             "url": "https://huggingface.co/Yuhao22/Qwen2.5-VL-7B-Instruct-Q4_K_M-GGUF/resolve/main/qwen2.5-vl-7b-instruct-q4_k_m.gguf",
             "filename": "Qwen2.5-VL-7B-Instruct-UD-Q4_K_S.gguf"
+        },
+        {
+            "url": "https://huggingface.co/city96/umt5-xxl-encoder-gguf/resolve/main/umt5-xxl-encoder-Q5_K_S.gguf",
+            "filename": "umt5-xxl-encoder-Q5_K_S.gguf"
         }
     ],
     "unet": [
         {
             "url": "https://huggingface.co/QuantStack/Qwen-Image-Distill-GGUF/resolve/main/Qwen_Image_Distill-Q8_0.gguf",
             "filename": "Qwen_Image_Distill-Q8_0.gguf"
+        },
+        {
+            "url": "https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/resolve/main/wan2.2_t2v_low_noise_14B_Q8_0.gguf",
+            "filename": "wan2.2_t2v_low_noise_14B_Q8_0.gguf"
         }
     ]
 }
