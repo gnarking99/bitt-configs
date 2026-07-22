@@ -21,10 +21,6 @@
             "name": "ComfyUI_QwenVL_PromptCaption"
         },
         {
-            "url": "https://github.com/comfyanonymous/ComfyUI",
-            "name": "ComfyUI"
-        },
-        {
             "url": "https://github.com/NewLouwa/ComfyUI-Model_preset_Pilot",
             "name": "ComfyUI-Model_preset_Pilot"
         },
