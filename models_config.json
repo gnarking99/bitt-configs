@@ -3,6 +3,10 @@
         {
             "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors",
             "filename": "Krea-2-Turbo.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9B/resolve/main/flux-2-klein-9b.safetensors",
+            "filename": "flux-2-klein-9b.safetensors"
         }
     ],
     "vae": [

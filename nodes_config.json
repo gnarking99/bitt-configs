@@ -95,6 +95,14 @@
         {
             "url": "https://github.com/rgthree/rgthree-comfy",
             "name": "rgthree's ComfyUI Nodes"
+        },
+        {
+            "url": "https://github.com/RevengerNick/ComfyUI-Easy-Loaders",
+            "name": "ComfyUI-Easy-Loaders"
+        },
+        {
+            "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+            "name": "ComfyUI-Impact-Pack"
         }
     ]
 }
