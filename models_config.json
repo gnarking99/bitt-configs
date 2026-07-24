@@ -67,6 +67,10 @@
         {
             "url": "https://huggingface.co/AEmotionStudio/qwen3vl-8b-abliterated-fp8-scaled/resolve/main/qwen3vl_8b_abliterated_fp8_scaled.safetensors",
             "filename": "qwen3vl_8b_abliterated_fp8_scaled.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/edicamargo/qwen_3_8b_fp8mixed_abliterated/resolve/main/qwen_3_8b_fp8mixed_abliterated.safetensors",
+            "filename": "qwen_3_8b_fp8mixed_abliterated.safetensors"
         }
     ]
 }
