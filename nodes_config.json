@@ -99,6 +99,18 @@
         {
             "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
             "name": "ComfyUI-Impact-Pack"
+        },
+        {
+            "url": "https://github.com/jtydhr88/ComfyUI-Workflow-Encrypt",
+            "name": "ComfyUI-Workflow-Encrypt"
+        },
+        {
+            "url": "https://github.com/pixaroma/ComfyUI-Pixaroma",
+            "name": "ComfyUI-Pixaroma"
+        },
+        {
+            "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale",
+            "name": "ComfyUI_UltimateSDUpscale"
         }
     ]
 }

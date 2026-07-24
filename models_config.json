@@ -17,6 +17,10 @@
         {
             "url": "https://huggingface.co/Osrivers/wan_2.1_vae.safetensors/resolve/main/wan_2.1_vae.safetensors",
             "filename": "wan_2.1_vae.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors",
+            "filename": "flux2-vae.safetensors"
         }
     ],
     "clip": [
@@ -51,6 +55,18 @@
         {
             "url": "https://huggingface.co/Patil/Krea-2-depth-controlnet/resolve/main/depth-control-lora.safetensors",
             "filename": "depth-control-lora.safetensors"
+        }
+    ],
+    "upscale_models": [
+        {
+            "url": "https://huggingface.co/Phips/4xNomos8kDAT/resolve/main/4xNomos8kDAT.safetensors",
+            "filename": "4xNomos8kDAT.safetensors"
+        }
+    ],
+    "text_encoders": [
+        {
+            "url": "https://huggingface.co/AEmotionStudio/qwen3vl-8b-abliterated-fp8-scaled/resolve/main/qwen3vl_8b_abliterated_fp8_scaled.safetensors",
+            "filename": "qwen3vl_8b_abliterated_fp8_scaled.safetensors"
         }
     ]
 }
