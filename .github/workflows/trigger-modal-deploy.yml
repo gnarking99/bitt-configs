@@ -1,0 +1,43 @@
+name: Trigger Modal Deploy
+
+# ESTE ARCHIVO VA EN EL REPO gnarking99/bitt-configs (publico), en la ruta
+#   .github/workflows/trigger-modal-deploy.yml
+# NO en bitt-desktop. Aqui se guarda versionado como referencia/entrega.
+#
+# Cuando un admin guarda la config, la app hace `git push` de nodes_config.json /
+# models_config.json a este repo. Este workflow reacciona a ese push y dispara el
+# deploy REAL, que corre en el repo PRIVADO gnarking99/bitt-desktop.
+#
+# Aqui NO viven los tokens de Modal. El unico secret es DEPLOY_DISPATCH_PAT, un PAT
+# fine-grained ACOTADO a bitt-desktop con permisos minimos:
+#   - Actions: Read and write   (para lanzar el workflow)
+#   - Contents: Read-only       (para que la API vea el workflow)
+# Si ese PAT se filtrara, como mucho puede DISPARAR tu propio deploy: no puede
+# inyectar codigo ni leer los tokens de Modal (que estan en el repo privado).
+
+on:
+  push:
+    branches: [main]
+    # Solo dispara con cambios de config real. deploy-status.json queda FUERA a
+    # proposito: lo escribe el deploy de vuelta y no debe re-disparar (evita bucle).
+    paths:
+      - 'nodes_config.json'
+      - 'models_config.json'
+      - '.deploy-trigger'
+
+# Si llegan varios pushes seguidos, basta disparar una vez con el ultimo.
+concurrency:
+  group: trigger-modal-deploy
+  cancel-in-progress: true
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch deploy en bitt-desktop
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_DISPATCH_PAT }}
+        run: |
+          gh workflow run modal-deploy.yml \
+            -R gnarking99/bitt-desktop \
+            -f configs_sha="${{ github.sha }}"
