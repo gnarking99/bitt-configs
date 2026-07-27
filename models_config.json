@@ -55,6 +55,10 @@
         {
             "url": "https://huggingface.co/Patil/Krea-2-depth-controlnet/resolve/main/depth-control-lora.safetensors",
             "filename": "depth-control-lora.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_identity_edit_v1_2.safetensors",
+            "filename": "krea2_identity_edit_v1_2.safetensors"
         }
     ],
     "upscale_models": [
