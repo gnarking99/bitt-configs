@@ -17,10 +17,6 @@
             "name": "ComfyUI-SeedVR2_VideoUpscaler"
         },
         {
-            "url": "https://github.com/WingeD123/ComfyUI_QwenVL_PromptCaption",
-            "name": "ComfyUI_QwenVL_PromptCaption"
-        },
-        {
             "url": "https://github.com/NewLouwa/ComfyUI-Model_preset_Pilot",
             "name": "ComfyUI-Model_preset_Pilot"
         },
