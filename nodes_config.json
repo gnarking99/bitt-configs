@@ -115,6 +115,34 @@
         {
             "url": "https://github.com/Pirog17000/Pirogs-Nodes",
             "name": "Pirogs-Nodes"
+        },
+        {
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "ComfyUI"
+        },
+        {
+            "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+            "name": "ComfyUI-LTXVideo"
+        },
+        {
+            "url": "https://github.com/BetaDoggo/comfyui-rtx-simple",
+            "name": "comfyui-rtx-simple"
+        },
+        {
+            "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
+            "name": "ComfyUI-VideoHelperSuite"
+        },
+        {
+            "url": "https://github.com/Artificial-Sweetener/Substitute-Backend",
+            "name": "Substitute-Backend"
+        },
+        {
+            "url": "https://github.com/aining2022/ComfyUI_Swwan",
+            "name": "ComfyUI_Swwan"
+        },
+        {
+            "url": "https://github.com/1038lab/ComfyUI-RMBG",
+            "name": "ComfyUI-RMBG"
         }
     ]
 }
