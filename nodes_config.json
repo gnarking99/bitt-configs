@@ -85,10 +85,6 @@
             "name": "comfyui-krea2-controlnet"
         },
         {
-            "url": "https://github.com/rgthree/rgthree-comfy",
-            "name": "rgthree's ComfyUI Nodes"
-        },
-        {
             "url": "https://github.com/RevengerNick/ComfyUI-Easy-Loaders",
             "name": "ComfyUI-Easy-Loaders"
         },
@@ -151,6 +147,10 @@
         {
             "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
             "name": "ComfyUI-Detail-Daemon"
+        },
+        {
+            "url": "https://github.com/rgthree/rgthree-comfy",
+            "name": "rgthree's ComfyUI Nodes"
         }
     ]
 }
