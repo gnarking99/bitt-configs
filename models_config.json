@@ -7,6 +7,10 @@
         {
             "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9B/resolve/main/flux-2-klein-9b.safetensors",
             "filename": "flux-2-klein-9b.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
+            "filename": "flux-2-klein-9b-fp8.safetensors"
         }
     ],
     "vae": [
@@ -69,6 +73,10 @@
         {
             "url": "https://huggingface.co/Phips/4xNomos8kDAT/resolve/main/4xNomos8kDAT.safetensors",
             "filename": "4xNomos8kDAT.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth",
+            "filename": "4x-UltraSharp.pth"
         }
     ],
     "text_encoders": [

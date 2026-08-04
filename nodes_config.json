@@ -117,10 +117,6 @@
             "name": "Pirogs-Nodes"
         },
         {
-            "url": "https://github.com/comfyanonymous/ComfyUI",
-            "name": "ComfyUI"
-        },
-        {
             "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
             "name": "ComfyUI-LTXVideo"
         },
@@ -151,6 +147,18 @@
         {
             "url": "https://github.com/1038lab/ComfyUI-QwenVL",
             "name": "ComfyUI-QwenVL"
+        },
+        {
+            "url": "https://github.com/gnarking99/custom-nodes",
+            "name": "custom-nodes"
+        },
+        {
+            "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+            "name": "ComfyUI-QwenVL"
+        },
+        {
+            "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
+            "name": "ComfyUI-Detail-Daemon"
         }
     ]
 }
