@@ -143,6 +143,14 @@
         {
             "url": "https://github.com/1038lab/ComfyUI-RMBG",
             "name": "ComfyUI-RMBG"
+        },
+        {
+            "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
+            "name": "ComfyUI-Detail-Daemon"
+        },
+        {
+            "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+            "name": "ComfyUI-QwenVL"
         }
     ]
 }
