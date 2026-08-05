@@ -153,10 +153,6 @@
             "name": "ComfyUI-DiffSynth-Studio"
         },
         {
-            "url": "https://github.com/comfyanonymous/ComfyUI",
-            "name": "ComfyUI"
-        },
-        {
             "url": "https://github.com/Yuan-ManX/ComfyUI-SkyReels-A2",
             "name": "ComfyUI-SkyReels-A2"
         }
