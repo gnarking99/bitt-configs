@@ -125,10 +125,6 @@
             "name": "ComfyUI-VideoHelperSuite"
         },
         {
-            "url": "https://github.com/Artificial-Sweetener/Substitute-Backend",
-            "name": "Substitute-Backend"
-        },
-        {
             "url": "https://github.com/aining2022/ComfyUI_Swwan",
             "name": "ComfyUI_Swwan"
         },
