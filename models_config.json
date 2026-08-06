@@ -11,6 +11,10 @@
         {
             "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
             "filename": "flux-2-klein-9b-fp8.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
+            "filename": "wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors"
         }
     ],
     "vae": [
@@ -67,6 +71,10 @@
         {
             "url": "https://civitai.com/api/download/models/3075606?fileId=2954661",
             "filename": "lenovo_krea2.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors",
+            "filename": "wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors"
         }
     ],
     "upscale_models": [
@@ -87,6 +95,10 @@
         {
             "url": "https://huggingface.co/edicamargo/qwen_3_8b_fp8mixed_abliterated/resolve/main/qwen_3_8b_fp8mixed_abliterated.safetensors",
             "filename": "qwen_3_8b_fp8mixed_abliterated.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+            "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
         }
     ]
 }
