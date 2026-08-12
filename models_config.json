@@ -1,51 +1,35 @@
 {
     "diffusion_models": [
         {
+            "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
+            "filename": "flux-2-klein-9b-fp8.safetensors"
+        },
+        {
             "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors",
             "filename": "Krea-2-Turbo.safetensors"
         },
         {
-            "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9B/resolve/main/flux-2-klein-9b.safetensors",
-            "filename": "flux-2-klein-9b.safetensors"
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/diffusion_models/ltx-2.5-22b-dev-transformer-bf16.safetensors",
+            "filename": "ltx-2.5-22b-dev-transformer-bf16.safetensors"
         },
         {
-            "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
-            "filename": "flux-2-klein-9b-fp8.safetensors"
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+            "filename": "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+            "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors"
         },
         {
             "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
             "filename": "wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors"
         }
     ],
-    "vae": [
-        {
-            "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
-            "filename": "qwen_image_vae.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/Osrivers/wan_2.1_vae.safetensors/resolve/main/wan_2.1_vae.safetensors",
-            "filename": "wan_2.1_vae.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors",
-            "filename": "flux2-vae.safetensors"
-        }
-    ],
-    "clip": [
-        {
-            "url": "https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors",
-            "filename": "qwen3vl_4b_fp8_scaled.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/Yuhao22/Qwen2.5-VL-7B-Instruct-Q4_K_M-GGUF/resolve/main/qwen2.5-vl-7b-instruct-q4_k_m.gguf",
-            "filename": "Qwen2.5-VL-7B-Instruct-UD-Q4_K_S.gguf"
-        },
-        {
-            "url": "https://huggingface.co/city96/umt5-xxl-encoder-gguf/resolve/main/umt5-xxl-encoder-Q5_K_S.gguf",
-            "filename": "umt5-xxl-encoder-Q5_K_S.gguf"
-        }
-    ],
     "unet": [
+        {
+            "url": "https://huggingface.co/unsloth/FLUX.2-klein-9B-GGUF/resolve/main/flux-2-klein-9b-Q8_0.gguf",
+            "filename": "flux-2-klein-9b-Q8_0.gguf"
+        },
         {
             "url": "https://huggingface.co/QuantStack/Qwen-Image-Distill-GGUF/resolve/main/Qwen_Image_Distill-Q8_0.gguf",
             "filename": "Qwen_Image_Distill-Q8_0.gguf"
@@ -55,42 +39,20 @@
             "filename": "wan2.2_t2v_low_noise_14B_Q8_0.gguf"
         }
     ],
-    "loras": [
+    "checkpoints": [
         {
-            "url": "https://huggingface.co/reverentelusarca/krea2-detail-enhancer-edit-lora/resolve/main/krea-detail-enhancer-exp.safetensors",
-            "filename": "krea-detail-enhancer-exp.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/Patil/Krea-2-depth-controlnet/resolve/main/depth-control-lora.safetensors",
-            "filename": "depth-control-lora.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/conradlocke/krea2-identity-edit/resolve/main/krea2_identity_edit_v1_2.safetensors",
-            "filename": "krea2_identity_edit_v1_2.safetensors"
-        },
-        {
-            "url": "https://civitai.com/api/download/models/3075606?fileId=2954661",
-            "filename": "lenovo_krea2.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors",
-            "filename": "wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors"
-        }
-    ],
-    "upscale_models": [
-        {
-            "url": "https://huggingface.co/Phips/4xNomos8kDAT/resolve/main/4xNomos8kDAT.safetensors",
-            "filename": "4xNomos8kDAT.safetensors"
-        },
-        {
-            "url": "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth",
-            "filename": "4x-UltraSharp.pth"
+            "url": "https://huggingface.co/Lightricks/LTX-2.3-fp8/resolve/main/ltx-2.3-22b-dev-fp8.safetensors",
+            "filename": "ltx-2.3-22b-dev-fp8.safetensors"
         }
     ],
     "text_encoders": [
         {
-            "url": "https://huggingface.co/AEmotionStudio/qwen3vl-8b-abliterated-fp8-scaled/resolve/main/qwen3vl_8b_abliterated_fp8_scaled.safetensors",
-            "filename": "qwen3vl_8b_abliterated_fp8_scaled.safetensors"
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors",
+            "filename": "gemma4-12b-with-proj-ltx-2.5-bf16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp4_mixed.safetensors",
+            "filename": "gemma_3_12B_it_fp4_mixed.safetensors"
         },
         {
             "url": "https://huggingface.co/edicamargo/qwen_3_8b_fp8mixed_abliterated/resolve/main/qwen_3_8b_fp8mixed_abliterated.safetensors",
@@ -99,6 +61,136 @@
         {
             "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
             "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+        }
+    ],
+    "clip": [
+        {
+            "url": "https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors",
+            "filename": "qwen3vl_4b_fp8_scaled.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/unsloth/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q6_K.gguf",
+            "filename": "Qwen3-8B-Q6_K.gguf"
+        },
+        {
+            "url": "https://huggingface.co/unsloth/Qwen2.5-VL-7B-Instruct-GGUF/resolve/main/Qwen2.5-VL-7B-Instruct-Q4_K_S.gguf",
+            "filename": "Qwen2.5-VL-7B-Instruct-UD-Q4_K_S.gguf"
+        },
+        {
+            "url": "https://huggingface.co/city96/umt5-xxl-encoder-gguf/resolve/main/umt5-xxl-encoder-Q5_K_S.gguf",
+            "filename": "umt5-xxl-encoder-Q5_K_S.gguf"
+        }
+    ],
+    "vae": [
+        {
+            "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors",
+            "filename": "flux2-vae.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+            "filename": "qwen_image_vae.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+            "filename": "wan_2.1_vae.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/vae/ltx-2.5-video-vae-bf16.safetensors",
+            "filename": "ltx-2.5-video-vae-bf16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/vae/ltx-2.5-audio-vae-bf16.safetensors",
+            "filename": "ltx-2.5-audio-vae-bf16.safetensors"
+        }
+    ],
+    "loras": [
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/loras/ltx-2.5-22b-distilled-lora-450-bf16.safetensors",
+            "filename": "ltx-2.5-22b-distilled-lora-450-bf16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler/resolve/main/ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors",
+            "filename": "ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients/resolve/main/ltx-2.3-22b-ic-lora-ingredients-0.9.safetensors",
+            "filename": "ltx-2.3-22b-ic-lora-ingredients-0.9.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/ltx-2.3/resolve/main/split_files/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+            "filename": "ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/DeepBeepMeep/krea-2/resolve/main/krea2_identity_edit_v1_2.safetensors",
+            "filename": "krea2_identity_edit_v1_2.safetensors"
+        },
+        {
+            "url": "https://civitai.com/api/download/models/3075606?fileId=2954661",
+            "filename": "lenovo_krea2.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Lightning-4steps-V1.0.safetensors",
+            "filename": "Qwen-Image-Lightning-4steps-V1.0.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/vrgamedevgirl84/Wan14BT2VFusioniX/resolve/main/FusionX_LoRa/Wan2.1_T2V_14B_FusionX_LoRA.safetensors",
+            "filename": "Wan2.1_T2V_14B_FusionX_LoRA.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/LoRAs/Wan22-Lightning/old/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors",
+            "filename": "Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+            "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors",
+            "filename": "wan2.2_t2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
+        }
+    ],
+    "latent_upscale_models": [
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors",
+            "filename": "ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/latent_upscale_models/ltx-2.5-latent-temporal-upscaler-x2-bf16-1.0.safetensors",
+            "filename": "ltx-2.5-latent-temporal-upscaler-x2-bf16-1.0.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+            "filename": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors"
+        }
+    ],
+    "model_patches": [
+        {
+            "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/model_patches/ltx-2.5-duration-head-bf16.safetensors",
+            "filename": "ltx-2.5-duration-head-bf16.safetensors"
+        }
+    ],
+    "upscale_models": [
+        {
+            "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth",
+            "filename": "4x-UltraSharp.pth"
+        },
+        {
+            "url": "https://huggingface.co/Phips/4xNomos8kDAT/resolve/main/4xNomos8kDAT.safetensors",
+            "filename": "4xNomos8kDAT.safetensors"
+        }
+    ],
+    "SEEDVR2": [
+        {
+            "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/seedvr2_ema_3b_fp16.safetensors",
+            "filename": "seedvr2_ema_3b_fp16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/seedvr2_ema_7b_fp16.safetensors",
+            "filename": "seedvr2_ema_7b_fp16.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/ema_vae_fp16.safetensors",
+            "filename": "ema_vae_fp16.safetensors"
         }
     ]
 }
