@@ -61,6 +61,10 @@
         {
             "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
             "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+        },
+        {
+            "url": "https://huggingface.co/google/gemma-4-E2B-it/resolve/main/model.safetensors",
+            "filename": "gemma-4-E2B-it.safetensors"
         }
     ],
     "clip": [
