@@ -63,8 +63,8 @@
             "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
         },
         {
-            "url": "https://huggingface.co/google/gemma-4-E2B-it/resolve/main/model.safetensors",
-            "filename": "gemma-4-E2B-it.safetensors"
+            "url": "https://huggingface.co/Comfy-Org/gemma-4/resolve/main/text_encoders/gemma4_e2b_it_bf16.safetensors",
+            "filename": "gemma4_e2b_it_bf16.safetensors"
         }
     ],
     "clip": [
