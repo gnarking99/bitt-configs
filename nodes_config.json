@@ -71,6 +71,10 @@
         {
             "url": "https://github.com/gokayfem/ComfyUI-fal-API",
             "name": "ComfyUI-fal-API"
+        },
+        {
+            "url": "https://github.com/ClownsharkBatwing/RES4LYF",
+            "name": "RES4LYF"
         }
     ]
 }
