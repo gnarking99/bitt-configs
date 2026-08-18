@@ -67,6 +67,10 @@
         {
             "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale",
             "name": "ComfyUI_UltimateSDUpscale"
+        },
+        {
+            "url": "https://github.com/gokayfem/ComfyUI-fal-API",
+            "name": "ComfyUI-fal-API"
         }
     ]
 }
