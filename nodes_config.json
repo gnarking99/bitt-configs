@@ -1,80 +1,92 @@
 {
-    "custom_nodes": [
-        {
-            "url": "https://github.com/kijai/ComfyUI-KJNodes",
-            "name": "KJNodes"
-        },
-        {
-            "url": "https://github.com/rgthree/rgthree-comfy",
-            "name": "rgthree's ComfyUI Nodes"
-        },
-        {
-            "url": "https://github.com/gnarking99/custom-nodes",
-            "name": "Character Pipeline (CP_)"
-        },
-        {
-            "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler",
-            "name": "SeedVR2 Video Upscaler"
-        },
-        {
-            "url": "https://github.com/city96/ComfyUI-GGUF",
-            "name": "ComfyUI-GGUF"
-        },
-        {
-            "url": "https://github.com/RevengerNick/ComfyUI-Easy-Loaders",
-            "name": "ComfyUI-Easy-Loaders"
-        },
-        {
-            "url": "https://github.com/yolain/ComfyUI-Easy-Use",
-            "name": "ComfyUI-Easy-Use"
-        },
-        {
-            "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
-            "name": "Video Helper Suite"
-        },
-        {
-            "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
-            "name": "ComfyUI-LTXVideo"
-        },
-        {
-            "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
-            "name": "Detail Daemon"
-        },
-        {
-            "url": "https://github.com/pixaroma/ComfyUI-Pixaroma",
-            "name": "ComfyUI-Pixaroma"
-        },
-        {
-            "url": "https://github.com/lbouaraba/comfyui-krea2edit",
-            "name": "comfyui-krea2edit"
-        },
-        {
-            "url": "https://github.com/1038lab/ComfyUI-QwenVL",
-            "name": "ComfyUI-QwenVL"
-        },
-        {
-            "url": "https://github.com/vrgamegirl19/comfyui-vrgamedevgirl",
-            "name": "comfyui-vrgamedevgirl"
-        },
-        {
-            "url": "https://github.com/cubiq/ComfyUI_essentials",
-            "name": "ComfyUI_essentials"
-        },
-        {
-            "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
-            "name": "ComfyUI-Impact-Pack"
-        },
-        {
-            "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale",
-            "name": "ComfyUI_UltimateSDUpscale"
-        },
-        {
-            "url": "https://github.com/gokayfem/ComfyUI-fal-API",
-            "name": "ComfyUI-fal-API"
-        },
-        {
-            "url": "https://github.com/ClownsharkBatwing/RES4LYF",
-            "name": "RES4LYF"
-        }
-    ]
+  "custom_nodes": [
+    {
+      "url": "https://github.com/kijai/ComfyUI-KJNodes",
+      "name": "KJNodes"
+    },
+    {
+      "url": "https://github.com/rgthree/rgthree-comfy",
+      "name": "rgthree's ComfyUI Nodes"
+    },
+    {
+      "url": "https://github.com/gnarking99/custom-nodes",
+      "name": "Character Pipeline (CP_)"
+    },
+    {
+      "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler",
+      "name": "SeedVR2 Video Upscaler"
+    },
+    {
+      "url": "https://github.com/city96/ComfyUI-GGUF",
+      "name": "ComfyUI-GGUF"
+    },
+    {
+      "url": "https://github.com/RevengerNick/ComfyUI-Easy-Loaders",
+      "name": "ComfyUI-Easy-Loaders"
+    },
+    {
+      "url": "https://github.com/yolain/ComfyUI-Easy-Use",
+      "name": "ComfyUI-Easy-Use"
+    },
+    {
+      "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
+      "name": "Video Helper Suite"
+    },
+    {
+      "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+      "name": "ComfyUI-LTXVideo"
+    },
+    {
+      "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
+      "name": "Detail Daemon"
+    },
+    {
+      "url": "https://github.com/pixaroma/ComfyUI-Pixaroma",
+      "name": "ComfyUI-Pixaroma"
+    },
+    {
+      "url": "https://github.com/lbouaraba/comfyui-krea2edit",
+      "name": "comfyui-krea2edit"
+    },
+    {
+      "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+      "name": "ComfyUI-QwenVL"
+    },
+    {
+      "url": "https://github.com/vrgamegirl19/comfyui-vrgamedevgirl",
+      "name": "comfyui-vrgamedevgirl"
+    },
+    {
+      "url": "https://github.com/cubiq/ComfyUI_essentials",
+      "name": "ComfyUI_essentials"
+    },
+    {
+      "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+      "name": "ComfyUI-Impact-Pack"
+    },
+    {
+      "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale",
+      "name": "ComfyUI_UltimateSDUpscale"
+    },
+    {
+      "url": "https://github.com/lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast",
+      "name": "FlashVSR Ultra Fast"
+    },
+    {
+      "url": "https://github.com/wildminder/ComfyUI-DyPE",
+      "name": "DyPE (4K nativo)"
+    },
+    {
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "name": "MiniMax H3 Turbo (sampler dual-clock)"
+    },
+    {
+      "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+      "name": "MiniMax H3 latent upscaler"
+    },
+    {
+      "url": "https://github.com/liconstudio/ComfyUI-Licon-MSR",
+      "name": "Licon MSR (LTX 2.3 multi-sujeto)"
+    }
+  ]
 }
