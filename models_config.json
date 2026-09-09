@@ -87,6 +87,14 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Bernini-R/resolve/main/diffusion_models/wan2.2_bernini_r_low_noise_fp8_scaled.safetensors",
       "filename": "wan2.2_bernini_r_low_noise_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/chrono_edit_14B_fp16.safetensors",
+      "filename": "chrono_edit_14B_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/SCAIL-2/resolve/main/diffusion_models/wan2.1_14B_SCAIL_2_int8_convrot.safetensors",
+      "filename": "wan2.1_14B_SCAIL_2_int8_convrot.safetensors"
     }
   ],
   "checkpoints": [
@@ -97,6 +105,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/HiDream-O1-Image/resolve/main/checkpoints/hidream_o1_image_dev_fp8_scaled.safetensors",
       "filename": "hidream_o1_image_dev_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/sam3.1/resolve/main/checkpoints/sam3.1_multiplex_fp16.safetensors",
+      "filename": "sam3.1_multiplex_fp16.safetensors"
     }
   ],
   "text_encoders": [
@@ -289,6 +301,14 @@
     {
       "url": "https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference/resolve/main/LTX-2.5-Licon-MSR-V1.safetensors",
       "filename": "LTX-2.5-Licon-MSR-V1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/chronoedit_distill_lora.safetensors",
+      "filename": "chronoedit_distill_lora.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/SCAIL-2/resolve/main/loras/wan2.1_SCAIL_2_DPO_lora_bf16.safetensors",
+      "filename": "wan2.1_SCAIL_2_DPO_lora_bf16.safetensors"
     }
   ],
   "latent_upscale_models": [
@@ -319,6 +339,10 @@
     {
       "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth",
       "filename": "4x-UltraSharp.pth"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Real-ESRGAN_repackaged/resolve/main/RealESRGAN_x4plus.safetensors",
+      "filename": "RealESRGAN_x4plus.safetensors"
     }
   ],
   "clip_vision": [
