@@ -55,6 +55,18 @@
     {
       "url": "https://github.com/liconstudio/ComfyUI-LTX2.5-MSR",
       "name": "Licon MSR (LTX 2.5 multi-sujeto)"
+    },
+    {
+      "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
+      "name": "Detail Daemon (flujo propio: enhance lora propio v9)"
+    },
+    {
+      "url": "https://github.com/pixaroma/ComfyUI-Pixaroma",
+      "name": "ComfyUI-Pixaroma (flujo propio: enhance lora propio v9)"
+    },
+    {
+      "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+      "name": "ComfyUI-QwenVL (flujo propio: enhance lora propio v9)"
     }
   ]
 }
