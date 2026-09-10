@@ -384,5 +384,30 @@
       "url": "https://huggingface.co/Comfy-Org/MoGe/resolve/main/geometry_estimation/moge_2_vitl_normal_fp16.safetensors",
       "filename": "moge_2_vitl_normal_fp16.safetensors"
     }
+  ],
+  "normalcrafter_models": [
+    {
+      "repo_id": "Yanrui95/NormalCrafter",
+      "type": "snapshot",
+      "folder_name": "NormalCrafter"
+    }
+  ],
+  "videodepthanything": [
+    {
+      "url": "https://huggingface.co/depth-anything/Video-Depth-Anything-Small/resolve/main/video_depth_anything_vits.pth",
+      "filename": "video_depth_anything_vits.pth"
+    }
+  ],
+  "hf_cache": [
+    {
+      "repo_id": "stabilityai/stable-video-diffusion-img2vid-xt",
+      "type": "hf_cache",
+      "allow_patterns": [
+        "model_index.json",
+        "image_encoder/*",
+        "scheduler/*",
+        "feature_extractor/*"
+      ]
+    }
   ]
 }
