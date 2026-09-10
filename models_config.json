@@ -374,5 +374,15 @@
       "url": "https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/Wan2.1_VAE.pth",
       "filename": "Wan2.1_VAE.pth"
     }
+  ],
+  "geometry_estimation": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Depth-Anything-3/resolve/main/geometry_estimation/depth_anything_3_base.safetensors",
+      "filename": "depth_anything_3_base.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/MoGe/resolve/main/geometry_estimation/moge_2_vitl_normal_fp16.safetensors",
+      "filename": "moge_2_vitl_normal_fp16.safetensors"
+    }
   ]
 }

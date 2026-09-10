@@ -67,6 +67,22 @@
     {
       "url": "https://github.com/1038lab/ComfyUI-QwenVL",
       "name": "ComfyUI-QwenVL (flujo propio: enhance lora propio v9)"
+    },
+    {
+      "url": "https://github.com/Code2Collapse/ComfyUI-CustomNodePacks",
+      "name": "Code2Collapse VFX suite (SAM3, SeC, MatAnyone2, VideoMaMa, ViTMatte, EXR, keyer)"
+    },
+    {
+      "url": "https://github.com/SlavaSexton/ComfyUI-OCIO",
+      "name": "ComfyUI-OCIO (EXR, ProRes, ACES)"
+    },
+    {
+      "url": "https://github.com/AIWarper/ComfyUI-NormalCrafterWrapper",
+      "name": "NormalCrafter (normales de video coherentes)"
+    },
+    {
+      "url": "https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything",
+      "name": "Video Depth Anything (profundidad de video coherente)"
     }
   ]
 }
