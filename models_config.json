@@ -409,5 +409,41 @@
         "feature_extractor/*"
       ]
     }
+  ],
+  "corridorkey": [
+    {
+      "url": "https://huggingface.co/nikopueringer/CorridorKey_v1.0/resolve/main/CorridorKey_v1.0.pth",
+      "filename": "CorridorKey_v1.0.pth"
+    },
+    {
+      "url": "https://huggingface.co/nikopueringer/CorridorKeyBlue_1.0/resolve/main/CorridorKeyBlue_1.0.pth",
+      "filename": "CorridorKeyBlue_1.0.pth"
+    }
+  ],
+  "RMBG": [
+    {
+      "repo_id": "1038lab/BiRefNet",
+      "type": "snapshot",
+      "folder_name": "BiRefNet",
+      "allow_patterns": [
+        "birefnet.py",
+        "BiRefNet_config.py",
+        "config.json",
+        "BiRefNet-HR-matting.safetensors",
+        "BiRefNet-matting.safetensors"
+      ]
+    },
+    {
+      "repo_id": "1038lab/SDMatte",
+      "type": "snapshot",
+      "folder_name": "SDMatte",
+      "allow_patterns": [
+        "SDMatte.safetensors",
+        "*.json",
+        "*.txt",
+        "*/*.json",
+        "*/*.txt"
+      ]
+    }
   ]
 }

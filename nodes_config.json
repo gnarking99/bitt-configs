@@ -87,6 +87,14 @@
     {
       "url": "https://github.com/FuouM/ComfyUI-MatAnyone",
       "name": "MatAnyone 2 (matting de video, licencia S-Lab no comercial)"
+    },
+    {
+      "url": "https://github.com/cnoellert/comfyui-corridorkey",
+      "name": "CorridorKey (keyer neuronal green/blue screen; uso comercial en producción permitido, no como API de pago)"
+    },
+    {
+      "url": "https://github.com/1038lab/ComfyUI-RMBG",
+      "name": "ComfyUI-RMBG (BiRefNet matting, SDMatte, BEN2, SAM3; matting comercial)"
     }
   ]
 }
