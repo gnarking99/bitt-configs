@@ -83,6 +83,10 @@
     {
       "url": "https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything",
       "name": "Video Depth Anything (profundidad de video coherente)"
+    },
+    {
+      "url": "https://github.com/FuouM/ComfyUI-MatAnyone",
+      "name": "MatAnyone 2 (matting de video, licencia S-Lab no comercial)"
     }
   ]
 }
