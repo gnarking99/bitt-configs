@@ -343,6 +343,14 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Real-ESRGAN_repackaged/resolve/main/RealESRGAN_x4plus.safetensors",
       "filename": "RealESRGAN_x4plus.safetensors"
+    },
+    {
+      "url": "https://github.com/Phhofm/models/releases/download/4xNomos2_hq_drct-l/4xNomos2_hq_drct-l.safetensors",
+      "filename": "4xNomos2_hq_drct-l.safetensors"
+    },
+    {
+      "url": "https://github.com/Phhofm/models/releases/download/4xNomos2_realplksr_dysample/4xNomos2_realplksr_dysample.pth",
+      "filename": "4xNomos2_realplksr_dysample.pth"
     }
   ],
   "clip_vision": [

@@ -2,99 +2,123 @@
   "custom_nodes": [
     {
       "url": "https://github.com/kijai/ComfyUI-KJNodes",
-      "name": "KJNodes"
+      "name": "KJNodes",
+      "commit": "57105374f47d0fbb49c9c3926fb981702e0a4b5c"
     },
     {
       "url": "https://github.com/rgthree/rgthree-comfy",
-      "name": "rgthree's ComfyUI Nodes"
+      "name": "rgthree's ComfyUI Nodes",
+      "commit": "2c5342a8cb0eaecaabf61435a5f37dd594c510ba"
     },
     {
       "url": "https://github.com/gnarking99/custom-nodes",
-      "name": "Character Pipeline (CP_)"
+      "name": "Character Pipeline (CP_)",
+      "commit": "05cef099d0c9bce9c9a542fcc7e32103e8c18e2e"
     },
     {
       "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
-      "name": "Video Helper Suite"
+      "name": "Video Helper Suite",
+      "commit": "4d907bee61e92c2e65af3bd6383a4e4d356126d1"
     },
     {
       "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
-      "name": "ComfyUI-LTXVideo"
+      "name": "ComfyUI-LTXVideo",
+      "commit": "15d09abb5a187a8dcaea2fc31fe51ee96e6c9d0d"
     },
     {
       "url": "https://github.com/lbouaraba/comfyui-krea2edit",
-      "name": "comfyui-krea2edit"
+      "name": "comfyui-krea2edit",
+      "commit": "86f886dac23013d88996e3a2e99093ba44d322fb"
     },
     {
       "url": "https://github.com/vrgamegirl19/comfyui-vrgamedevgirl",
-      "name": "comfyui-vrgamedevgirl"
+      "name": "comfyui-vrgamedevgirl",
+      "commit": "c85fda6dd0a2dbabbfab566e4e0515a7f2815b09"
     },
     {
       "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
-      "name": "ComfyUI-Impact-Pack"
+      "name": "ComfyUI-Impact-Pack",
+      "commit": "429d0159ad429e64d2b3916e6e7be9c22d025c3c"
     },
     {
       "url": "https://github.com/lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast",
-      "name": "FlashVSR Ultra Fast"
+      "name": "FlashVSR Ultra Fast",
+      "commit": "4820b3f02347bddcbbb9a5a85ab7638fe976366e"
     },
     {
       "url": "https://github.com/wildminder/ComfyUI-DyPE",
-      "name": "DyPE (4K nativo)"
+      "name": "DyPE (4K nativo)",
+      "commit": "5cc26ee9b5b708eb9cda66feed0008d61ced3a58"
     },
     {
       "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "name": "MiniMax H3 Turbo (sampler dual-clock)"
+      "name": "MiniMax H3 Turbo (sampler dual-clock)",
+      "commit": "4274783a23afcfdbea3b4876cb79effd6c510785"
     },
     {
       "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
-      "name": "MiniMax H3 latent upscaler"
+      "name": "MiniMax H3 latent upscaler",
+      "commit": "d7c01b9011f2e8439493f6c02c29995a27df276f"
     },
     {
       "url": "https://github.com/liconstudio/ComfyUI-Licon-MSR",
-      "name": "Licon MSR (LTX 2.3 multi-sujeto)"
+      "name": "Licon MSR (LTX 2.3 multi-sujeto)",
+      "commit": "94a52bfec735ff6f802c480f7fe8fdac1d279a7f"
     },
     {
       "url": "https://github.com/liconstudio/ComfyUI-LTX2.5-MSR",
-      "name": "Licon MSR (LTX 2.5 multi-sujeto)"
+      "name": "Licon MSR (LTX 2.5 multi-sujeto)",
+      "commit": "98941179a82223a0a62219550272b2823b3e3a9c"
     },
     {
       "url": "https://github.com/Jonseed/ComfyUI-Detail-Daemon",
-      "name": "Detail Daemon (flujo propio: enhance lora propio v9)"
+      "name": "Detail Daemon (flujo propio: enhance lora propio v9)",
+      "commit": "3394e44afea04ed0188fb37b21f0d9952469766b"
     },
     {
       "url": "https://github.com/pixaroma/ComfyUI-Pixaroma",
-      "name": "ComfyUI-Pixaroma (flujo propio: enhance lora propio v9)"
+      "name": "ComfyUI-Pixaroma (flujo propio: enhance lora propio v9)",
+      "commit": "5906cb89f5d96fbbd2019a9b1a2d4f43002dccee"
     },
     {
       "url": "https://github.com/1038lab/ComfyUI-QwenVL",
-      "name": "ComfyUI-QwenVL (flujo propio: enhance lora propio v9)"
+      "name": "ComfyUI-QwenVL (flujo propio: enhance lora propio v9)",
+      "commit": "06c71e3cc97010a3c61e19a8152755e809e90d15"
     },
     {
       "url": "https://github.com/Code2Collapse/ComfyUI-CustomNodePacks",
-      "name": "Code2Collapse VFX suite (SAM3, SeC, MatAnyone2, VideoMaMa, ViTMatte, EXR, keyer)"
+      "name": "Code2Collapse VFX suite (SAM3, SeC, MatAnyone2, VideoMaMa, ViTMatte, EXR, keyer)",
+      "commit": "9891293eddddee24d2eb0b8fbbf0618f22fd2257"
     },
     {
       "url": "https://github.com/SlavaSexton/ComfyUI-OCIO",
-      "name": "ComfyUI-OCIO (EXR, ProRes, ACES)"
+      "name": "ComfyUI-OCIO (EXR, ProRes, ACES)",
+      "commit": "cf13d48740002cdefca6c0f2f86d3f84c1321f32"
     },
     {
       "url": "https://github.com/AIWarper/ComfyUI-NormalCrafterWrapper",
-      "name": "NormalCrafter (normales de video coherentes)"
+      "name": "NormalCrafter (normales de video coherentes)",
+      "commit": "cf0d92bc5480e4a2785ebecf878d40bf2eb5f5aa"
     },
     {
       "url": "https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything",
-      "name": "Video Depth Anything (profundidad de video coherente)"
+      "name": "Video Depth Anything (profundidad de video coherente)",
+      "commit": "a0db08e63d1ea571601c45cde4aaee0acdd0544d"
     },
     {
       "url": "https://github.com/FuouM/ComfyUI-MatAnyone",
-      "name": "MatAnyone 2 (matting de video, licencia S-Lab no comercial)"
+      "name": "MatAnyone 2 (matting de video, licencia S-Lab no comercial)",
+      "commit": "87cbce38c03bb359471bd23704ebd1720e98a842"
     },
     {
       "url": "https://github.com/cnoellert/comfyui-corridorkey",
-      "name": "CorridorKey (keyer neuronal green/blue screen; uso comercial en producción permitido, no como API de pago)"
+      "name": "CorridorKey (keyer neuronal green/blue screen; uso comercial en producción permitido, no como API de pago)",
+      "commit": "efbf2dd5cbff5e6ee141558a5cfa9163280d29fa"
     },
     {
       "url": "https://github.com/1038lab/ComfyUI-RMBG",
-      "name": "ComfyUI-RMBG (BiRefNet matting, SDMatte, BEN2, SAM3; matting comercial)"
+      "name": "ComfyUI-RMBG (BiRefNet matting, SDMatte, BEN2, SAM3; matting comercial)",
+      "commit": "58f1947a11567a9f8b707223185570850e773856"
     }
   ]
 }
