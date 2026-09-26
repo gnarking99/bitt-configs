@@ -311,22 +311,6 @@
       "filename": "wan2.1_SCAIL_2_DPO_lora_bf16.safetensors"
     },
     {
-      "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/resolve/main/wan2.2_t2v_A14b_high_noise_lora_rank64_lightx2v_4step_1217.safetensors",
-      "filename": "wan2.2_t2v_A14b_high_noise_lora_rank64_lightx2v_4step_1217.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/resolve/main/wan2.2_t2v_A14b_low_noise_lora_rank64_lightx2v_4step_1217.safetensors",
-      "filename": "wan2.2_t2v_A14b_low_noise_lora_rank64_lightx2v_4step_1217.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/resolve/main/wan2.2_i2v_A14b_high_noise_lora_rank64_lightx2v_4step_1022.safetensors",
-      "filename": "wan2.2_i2v_A14b_high_noise_lora_rank64_lightx2v_4step_1022.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/resolve/main/wan2.2_i2v_A14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors",
-      "filename": "wan2.2_i2v_A14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors"
-    },
-    {
       "url": "https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference/resolve/main/LTX-2.5-Licon-MSR-V2.safetensors",
       "filename": "LTX-2.5-Licon-MSR-V2.safetensors"
     }
@@ -383,10 +367,6 @@
     {
       "url": "https://huggingface.co/Comfy-Org/frame_interpolation/resolve/main/frame_interpolation/rife_v4.26.safetensors",
       "filename": "rife_v4.26.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/frame_interpolation/resolve/main/frame_interpolation/rife_v4.25_heavy.safetensors",
-      "filename": "rife_v4.25_heavy.safetensors"
     }
   ],
   "FlashVSR-v1.1": [
