@@ -37,10 +37,6 @@
       "filename": "qwen_image_2512_fp8_e4m3fn.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_int8_convrot.safetensors",
-      "filename": "qwen_image_edit_2511_int8_convrot.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/Mage-Flow/resolve/main/diffusion_models/mage_flow_int8_convrot.safetensors",
       "filename": "mage_flow_int8_convrot.safetensors"
     },
@@ -89,36 +85,12 @@
       "filename": "wan2.2_bernini_r_low_noise_fp8_scaled.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/chrono_edit_14B_fp16.safetensors",
-      "filename": "chrono_edit_14B_fp16.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/SCAIL-2/resolve/main/diffusion_models/wan2.1_14B_SCAIL_2_int8_convrot.safetensors",
       "filename": "wan2.1_14B_SCAIL_2_int8_convrot.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1/resolve/main/diffusion_models/qwen_image_2.1_int8_convrot.safetensors",
       "filename": "qwen_image_2.1_int8_convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/diffusion_models/qwen-image-2512-int8-ConvRot.safetensors",
-      "filename": "qwen-image-2512-int8-ConvRot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/diffusion_models/flux-2-klein-9b_int8_convrot.safetensors",
-      "filename": "flux-2-klein-9b_int8_convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/diffusion_models/wan2.2_i2v_high_int8_convrot.safetensors",
-      "filename": "wan2.2_i2v_high_int8_convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/diffusion_models/wan2.2_i2v_low_int8_convrot.safetensors",
-      "filename": "wan2.2_i2v_low_int8_convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/TheWirableTortoise/FireRed-Image-Edit-v1.1-INT8-ConvRot/resolve/main/FireRed-ImageEdit-1.1_int8_convrot_WT.safetensors",
-      "filename": "FireRed-ImageEdit-1.1_int8_convrot_WT.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/Wan-Animate-2/resolve/main/diffusion_models/wan_animate_2_int8_convrot.safetensors",
@@ -135,10 +107,6 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_int8_convrot.safetensors",
       "filename": "ideogram4_unconditional_int8_convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/SDPose/resolve/main/diffusion_models/rt_detr_v4-x-hgnet_fp16.safetensors",
-      "filename": "rt_detr_v4-x-hgnet_fp16.safetensors"
     }
   ],
   "checkpoints": [
@@ -147,28 +115,12 @@
       "filename": "ltx-2.3-22b-dev-fp8.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/HiDream-O1-Image/resolve/main/checkpoints/hidream_o1_image_dev_fp8_scaled.safetensors",
-      "filename": "hidream_o1_image_dev_fp8_scaled.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/sam3.1/resolve/main/checkpoints/sam3.1_multiplex_fp16.safetensors",
       "filename": "sam3.1_multiplex_fp16.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/HiDream-O1-Image/resolve/main/checkpoints/hidream_o1_image_fp8_scaled.safetensors",
-      "filename": "hidream_o1_image_fp8_scaled.safetensors"
-    },
-    {
       "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/checkpoints/hidream_o1_image_int8-convrot.safetensors",
       "filename": "hidream_o1_image_int8-convrot.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/SDPose/resolve/main/checkpoints/sdpose_wholebody_fp16.safetensors",
-      "filename": "sdpose_wholebody_fp16.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/t8star/SenseNova-U1.5-Comfy/resolve/main/SenseNova-U1.5-8B-MoT-BF16-T8.safetensors",
-      "filename": "SenseNova-U1.5-8B-MoT-BF16-T8.safetensors"
     }
   ],
   "text_encoders": [
@@ -339,10 +291,6 @@
       "filename": "Wuli-Qwen-Image-2512-Turbo-LoRA-2steps-V1.0-bf16.safetensors"
     },
     {
-      "url": "https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning/resolve/main/Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
-      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/loras/krea2_style_reference.safetensors",
       "filename": "krea2_style_reference.safetensors"
     },
@@ -391,24 +339,12 @@
       "filename": "LTX-2.3-Licon-MSR-V2.safetensors"
     },
     {
-      "url": "https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference/resolve/main/LTX-2.5-Licon-MSR-V1.safetensors",
-      "filename": "LTX-2.5-Licon-MSR-V1.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/chronoedit_distill_lora.safetensors",
-      "filename": "chronoedit_distill_lora.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/SCAIL-2/resolve/main/loras/wan2.1_SCAIL_2_DPO_lora_bf16.safetensors",
       "filename": "wan2.1_SCAIL_2_DPO_lora_bf16.safetensors"
     },
     {
       "url": "https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference/resolve/main/LTX-2.5-Licon-MSR-V2.safetensors",
       "filename": "LTX-2.5-Licon-MSR-V2.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Refine-Details/resolve/main/ltx-2.5-22b-ic-lora-refine-details-1.0.safetensors",
-      "filename": "ltx-2.5-22b-ic-lora-refine-details-1.0.safetensors"
     },
     {
       "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render/resolve/main/ltx-2.5-22b-ic-lora-layout-to-render-1.0.safetensors",
@@ -429,10 +365,6 @@
     {
       "url": "https://huggingface.co/Alissonerdx/CharacterSheet/resolve/main/TripleView_klein9b_v1.safetensors",
       "filename": "TripleView_klein9b_v1.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Alissonerdx/CharacterSheet/resolve/main/QuadView_klein9b_v1.safetensors",
-      "filename": "QuadView_klein9b_v1.safetensors"
     }
   ],
   "latent_upscale_models": [
@@ -457,21 +389,9 @@
     {
       "url": "https://huggingface.co/Lightricks/LTX-2.5/resolve/main/model_patches/ltx-2.5-duration-head-bf16.safetensors",
       "filename": "ltx-2.5-duration-head-bf16.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/model_patches/minimax_h3_fun_controlnet_union_2.0_pruned_int8_convrot.safetensors",
-      "filename": "minimax_h3_fun_controlnet_union_2.0_pruned_int8_convrot.safetensors"
     }
   ],
   "upscale_models": [
-    {
-      "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth",
-      "filename": "4x-UltraSharp.pth"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/Real-ESRGAN_repackaged/resolve/main/RealESRGAN_x4plus.safetensors",
-      "filename": "RealESRGAN_x4plus.safetensors"
-    },
     {
       "url": "https://github.com/Phhofm/models/releases/download/4xNomos2_realplksr_dysample/4xNomos2_realplksr_dysample.pth",
       "filename": "4xNomos2_realplksr_dysample.pth"
@@ -491,10 +411,6 @@
     {
       "url": "https://huggingface.co/Comfy-Org/frame_interpolation/resolve/main/frame_interpolation/rife_v4.26.safetensors",
       "filename": "rife_v4.26.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Comfy-Org/frame_interpolation/resolve/main/frame_interpolation/rife_v4.26_heavy.safetensors",
-      "filename": "rife_v4.26_heavy.safetensors"
     }
   ],
   "FlashVSR-v1.1": [
