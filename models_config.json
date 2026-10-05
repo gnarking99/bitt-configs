@@ -227,6 +227,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
       "filename": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/text_encoders/qwen3vl_8b_fp8_scaled.safetensors",
+      "filename": "qwen3vl_8b_fp8_scaled.safetensors"
     }
   ],
   "clip": [
