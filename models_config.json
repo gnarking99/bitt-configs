@@ -139,6 +139,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_int8_convrot.safetensors",
       "filename": "ideogram4_unconditional_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/SDPose/resolve/main/diffusion_models/rt_detr_v4-x-hgnet_fp16.safetensors",
+      "filename": "rt_detr_v4-x-hgnet_fp16.safetensors"
     }
   ],
   "checkpoints": [
@@ -161,6 +165,10 @@
     {
       "url": "https://huggingface.co/obsxrver/ComfyUI-Native-INT8_ConvRot/resolve/main/checkpoints/hidream_o1_image_int8-convrot.safetensors",
       "filename": "hidream_o1_image_int8-convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/SDPose/resolve/main/checkpoints/sdpose_wholebody_fp16.safetensors",
+      "filename": "sdpose_wholebody_fp16.safetensors"
     }
   ],
   "text_encoders": [
