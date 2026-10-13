@@ -107,6 +107,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_int8_convrot.safetensors",
       "filename": "ideogram4_unconditional_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp16.safetensors",
+      "filename": "wan2.2_t2v_low_noise_14B_fp16.safetensors"
     }
   ],
   "checkpoints": [
@@ -183,6 +187,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/text_encoders/qwen3vl_8b_fp8_scaled.safetensors",
       "filename": "qwen3vl_8b_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors",
+      "filename": "umt5_xxl_fp16.safetensors"
     }
   ],
   "clip": [
@@ -365,6 +373,18 @@
     {
       "url": "https://huggingface.co/Alissonerdx/CharacterSheet/resolve/main/TripleView_klein9b_v1.safetensors",
       "filename": "TripleView_klein9b_v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/lightx2v/Wan2.2-Lightning/resolve/main/Wan2.2-T2V-A14B-4steps-lora-250928/low_noise_model.safetensors",
+      "filename": "Wan2.2_Lightning_4steps_250928_low_noise.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/alibaba-pai/Wan2.2-Fun-Reward-LoRAs/resolve/main/Wan2.2-Fun-A14B-InP-low-noise-HPS2.1.safetensors",
+      "filename": "Wan2.2-Fun-A14B-InP-low-noise-HPS2.1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/anthonyluu/Wan14B_RealismBoost/resolve/main/Wan14B_RealismBoost.safetensors",
+      "filename": "Wan14B_RealismBoost.safetensors"
     }
   ],
   "latent_upscale_models": [
