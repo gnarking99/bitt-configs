@@ -385,6 +385,18 @@
     {
       "url": "https://huggingface.co/anthonyluu/Wan14B_RealismBoost/resolve/main/Wan14B_RealismBoost.safetensors",
       "filename": "Wan14B_RealismBoost.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/artificialguybr/CINEMATIC-FILMSTILL-REDMOND-ZIMAGE/resolve/main/%5BZImage.Turbo%5DFilmStill_Redmond.safetensors",
+      "filename": "zimage_turbo_filmstill_redmond.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/artificialguybr/ANALOG-REDMOND-ZIMAGETURBO/resolve/main/%5BZImage.Turbo%5DAnalog_Redmond.safetensors",
+      "filename": "zimage_turbo_analog_redmond.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/artificialguybr/FILMGRAIN-REDMOND-ZIMAGE/resolve/main/%5BZImage.Turbo%5DFilmGrain_Redmond.safetensors",
+      "filename": "zimage_turbo_filmgrain_redmond.safetensors"
     }
   ],
   "latent_upscale_models": [
