@@ -119,6 +119,11 @@
       "url": "https://github.com/1038lab/ComfyUI-RMBG",
       "name": "ComfyUI-RMBG (BiRefNet matting, SDMatte, BEN2, SAM3; matting comercial)",
       "commit": "58f1947a11567a9f8b707223185570850e773856"
+    },
+    {
+      "url": "https://github.com/kkget/ComfyUI-FlashVSR_Plus",
+      "name": "FlashVSR+ (super-resolución de vídeo, Apache)",
+      "commit": "23fef7c3bf91f0b748d2a7a6163963213ed0dce8"
     }
   ]
 }

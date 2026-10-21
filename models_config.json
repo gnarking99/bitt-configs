@@ -111,6 +111,14 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp16.safetensors",
       "filename": "wan2.2_t2v_low_noise_14B_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1/resolve/main/diffusion_models/qwen_image_2.1_turbo_int8_convrot.safetensors",
+      "filename": "qwen_image_2.1_turbo_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/Wan_ID_V2V_comfy/resolve/main/wan_2.1_idv2v_int8_convrot.safetensors",
+      "filename": "wan_2.1_idv2v_int8_convrot.safetensors"
     }
   ],
   "checkpoints": [
@@ -413,6 +421,10 @@
     {
       "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR/resolve/main/ltx-2.5-22b-ic-lora-sdr-to-hdr-1.0.safetensors",
       "filename": "ltx-2.5-22b-ic-lora-sdr-to-hdr-1.0.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Relight/resolve/main/ltx-2.3-22b-ic-lora-relight-1.0.safetensors",
+      "filename": "ltx-2.3-22b-ic-lora-relight-1.0.safetensors"
     }
   ],
   "latent_upscale_models": [
@@ -487,6 +499,14 @@
     {
       "url": "https://huggingface.co/Comfy-Org/MoGe/resolve/main/geometry_estimation/moge_2_vitl_normal_fp16.safetensors",
       "filename": "moge_2_vitl_normal_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/MoGe/resolve/main/geometry_estimation/moge_3_vitl_fp16.safetensors",
+      "filename": "moge_3_vitl_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Depth-Anything-3/resolve/main/geometry_estimation/depth_anything_3_mono_large.safetensors",
+      "filename": "depth_anything_3_mono_large.safetensors"
     }
   ],
   "normalcrafter_models": [
@@ -500,6 +520,10 @@
     {
       "url": "https://huggingface.co/depth-anything/Video-Depth-Anything-Small/resolve/main/video_depth_anything_vits.pth",
       "filename": "video_depth_anything_vits.pth"
+    },
+    {
+      "url": "https://huggingface.co/depth-anything/Video-Depth-Anything-Large/resolve/main/video_depth_anything_vitl.pth",
+      "filename": "video_depth_anything_vitl.pth"
     }
   ],
   "hf_cache": [
@@ -554,6 +578,22 @@
     {
       "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR/resolve/main/ltx-2.5-22b-ic-lora-sdr-to-hdr-scene-emb.safetensors",
       "filename": "ltx-2.5-22b-ic-lora-sdr-to-hdr-scene-emb.safetensors"
+    }
+  ],
+  "FlashVSR_Plus/turbo": [
+    {
+      "url": "https://huggingface.co/ruchangyao/FlashVSR_plus/resolve/46b79520946ac67dec94d1566490690953c7debc/turbo/dit.safetensors",
+      "filename": "dit.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/ruchangyao/FlashVSR_plus/resolve/46b79520946ac67dec94d1566490690953c7debc/turbo/lq_proj_in.safetensors",
+      "filename": "lq_proj_in.safetensors"
+    }
+  ],
+  "FlashVSR_Plus": [
+    {
+      "url": "https://huggingface.co/ruchangyao/FlashVSR_plus/resolve/46b79520946ac67dec94d1566490690953c7debc/TCDecoder.ckpt",
+      "filename": "TCDecoder.ckpt"
     }
   ]
 }
