@@ -433,6 +433,22 @@
     {
       "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Relight/resolve/main/ltx-2.3-22b-ic-lora-relight-1.0.safetensors",
       "filename": "ltx-2.3-22b-ic-lora-relight-1.0.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Deblur/resolve/main/ltx-2.5-22b-ic-lora-deblur-0.9.safetensors",
+      "filename": "ltx-2.5-22b-ic-lora-deblur-0.9.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Decompression/resolve/main/ltx-2.5-22b-ic-lora-decompression-0.9.safetensors",
+      "filename": "ltx-2.5-22b-ic-lora-decompression-0.9.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Colorization/resolve/main/ltx-2.5-22b-ic-lora-colorization-0.9.safetensors",
+      "filename": "ltx-2.5-22b-ic-lora-colorization-0.9.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Day-To-Night/resolve/main/ltx-2.5-22b-ic-lora-day-to-night-0.9.safetensors",
+      "filename": "ltx-2.5-22b-ic-lora-day-to-night-0.9.safetensors"
     }
   ],
   "latent_upscale_models": [
@@ -554,32 +570,6 @@
     {
       "url": "https://huggingface.co/nikopueringer/CorridorKeyBlue_1.0/resolve/main/CorridorKeyBlue_1.0.pth",
       "filename": "CorridorKeyBlue_1.0.pth"
-    }
-  ],
-  "RMBG": [
-    {
-      "repo_id": "1038lab/BiRefNet",
-      "type": "snapshot",
-      "folder_name": "BiRefNet",
-      "allow_patterns": [
-        "birefnet.py",
-        "BiRefNet_config.py",
-        "config.json",
-        "BiRefNet-HR-matting.safetensors",
-        "BiRefNet-matting.safetensors"
-      ]
-    },
-    {
-      "repo_id": "1038lab/SDMatte",
-      "type": "snapshot",
-      "folder_name": "SDMatte",
-      "allow_patterns": [
-        "SDMatte.safetensors",
-        "*.json",
-        "*.txt",
-        "*/*.json",
-        "*/*.txt"
-      ]
     }
   ],
   "embeddings": [

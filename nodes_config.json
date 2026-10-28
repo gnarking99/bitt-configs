@@ -86,11 +86,6 @@
       "commit": "06c71e3cc97010a3c61e19a8152755e809e90d15"
     },
     {
-      "url": "https://github.com/Code2Collapse/ComfyUI-CustomNodePacks",
-      "name": "Code2Collapse VFX suite (SAM3, SeC, MatAnyone2, VideoMaMa, ViTMatte, EXR, keyer)",
-      "commit": "9891293eddddee24d2eb0b8fbbf0618f22fd2257"
-    },
-    {
       "url": "https://github.com/SlavaSexton/ComfyUI-OCIO",
       "name": "ComfyUI-OCIO (EXR, ProRes, ACES)",
       "commit": "cf13d48740002cdefca6c0f2f86d3f84c1321f32"
@@ -114,11 +109,6 @@
       "url": "https://github.com/cnoellert/comfyui-corridorkey",
       "name": "CorridorKey (keyer neuronal green/blue screen; uso comercial en producción permitido, no como API de pago)",
       "commit": "efbf2dd5cbff5e6ee141558a5cfa9163280d29fa"
-    },
-    {
-      "url": "https://github.com/1038lab/ComfyUI-RMBG",
-      "name": "ComfyUI-RMBG (BiRefNet matting, SDMatte, BEN2, SAM3; matting comercial)",
-      "commit": "58f1947a11567a9f8b707223185570850e773856"
     },
     {
       "url": "https://github.com/kkget/ComfyUI-FlashVSR_Plus",
