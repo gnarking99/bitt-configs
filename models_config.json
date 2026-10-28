@@ -5,6 +5,10 @@
       "filename": "flux-2-klein-9b-fp8.safetensors"
     },
     {
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy/resolve/main/diffusion_models/flux3-image-klein-bf16.safetensors",
+      "filename": "flux3-image-klein-bf16.safetensors"
+    },
+    {
       "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
       "filename": "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors"
     },
@@ -167,6 +171,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/Mage-Flow/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors",
       "filename": "qwen3vl_4b_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy/resolve/main/text_encoders/qwen3.5_9b_flux3_prompt_upsampler_int8_convrot.safetensors",
+      "filename": "qwen3.5_9b_flux3_prompt_upsampler_int8_convrot.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
