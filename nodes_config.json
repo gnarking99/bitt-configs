@@ -114,11 +114,6 @@
       "url": "https://github.com/kkget/ComfyUI-FlashVSR_Plus",
       "name": "FlashVSR+ (super-resolución de vídeo, Apache)",
       "commit": "23fef7c3bf91f0b748d2a7a6163963213ed0dce8"
-    },
-    {
-      "url": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation",
-      "name": "Frame Interpolation (RIFE con scale_factor, GMFSS; MIT)",
-      "commit": "26545cc2dd95bc3d27f056016300673bdeee78f5"
     }
   ]
 }
