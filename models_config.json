@@ -123,6 +123,14 @@
     {
       "url": "https://huggingface.co/Kijai/Wan_ID_V2V_comfy/resolve/main/wan_2.1_idv2v_int8_convrot.safetensors",
       "filename": "wan_2.1_idv2v_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image/resolve/main/diffusion_models/minimax_h3_image_pruned_int8_convrot.safetensors",
+      "filename": "minimax_h3_image_pruned_int8_convrot.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_int8_convrot.safetensors",
+      "filename": "qwen_image_edit_2511_int8_convrot.safetensors"
     }
   ],
   "checkpoints": [
@@ -267,6 +275,10 @@
     {
       "url": "https://huggingface.co/madebyollin/texture-fix-vae-for-qwen-image-2.1/resolve/main/texture_fix_vae_for_qwen_image_2.1_bf16.safetensors",
       "filename": "texture_fix_vae_for_qwen_image_2.1_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image/resolve/main/vae/minimax_h3_image_vae_fp16.safetensors",
+      "filename": "minimax_h3_image_vae_fp16.safetensors"
     }
   ],
   "loras": [
